@@ -1,0 +1,21 @@
+
+Java est un langage de programmation et une plate-forme. Java est un langage de programmation de haut niveau, robuste, orienté objet et sécurisé.
+
+Java a été développé par Sun Microsystems (aujourd'hui filiale d'Oracle) en 1995. James Gosling est connu comme le père de Java. Avant Java, son nom était Oak. Comme Oak était déjà une société enregistrée, James Gosling et son équipe ont changé le nom d'Oak en Java.
+
+Inspiré du langage C++, le langage Java a été conçu pour être petit, simple et portable sur toutes les plates-formes et tous les systèmes d'exploitation, tant au niveau des sources qu'au niveau binaire.
+
+// Pour en savoir plus sur l'histoire de Java, consultez le site https://www.javatpoint.com/history-of-java
+
+Java est un langage de programmation orienté objet. En Java, tout est un objet. L'orientation objet signifie que nous organisons notre logiciel comme une combinaison de différents types d'objets qui intègrent à la fois des données et un comportement.
+
+Les concepts de base de la programmation orientée objet sont les suivants
+- Objet
+- Classe
+- Héritage
+- Polymorphisme
+- Encapsulation
+- L'abstraction
+
+// Pour en savoir plus sur les fonctionnalités de Java : https://www.javatpoint.com/features-of-java
+
